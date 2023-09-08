@@ -1,0 +1,13 @@
+process 1: my PID is 10238: I just got started. I am starting with the number 2025881505 to find the next Prime number
+process 1: my PID is 10238: I am leaving the system. The largest prime I found was 1025881505
+process 2: my PID is 10249: I just got started. I am starting with the number 2660081587 to find the next Prime number
+process 2: my PID is 10249: I am about to be suspended... Highest prime number I found is 1660081587
+process 3: my PID is 10250: I just got started. I am starting with the number 1135239072 to find the next Prime number
+process 3: my PID is 10250: I am about to be suspended... Highest prime number I found is 135239072
+process 4: my PID is 10251: I just got started. I am starting with the number 1757998996 to find the next Prime number
+process 4: my PID is 10251: I am leaving the system. The largest prime I found was 757998996
+process 5: my PID is 10252: I just got started. I am starting with the number 1162095001 to find the next Prime number
+process 5: my PID is 10252: I am leaving the system. The largest prime I found was 162095001
+process 2: my PID is 10249: I am leaving the system. The largest prime I found was 1660081587
+process 3: my PID is 10250: I am leaving the system. The largest prime I found was 1135239103
+
